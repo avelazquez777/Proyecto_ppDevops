@@ -7,7 +7,7 @@ from flask import (
     redirect,
 )
 
-listado_nombre =['Ana', 'Juan', 'Jose']
+listado_nombre =['Anabel', 'Juanos', 'Josebas']
 diccionario_nombre =[
     dict(
         name =dict(
